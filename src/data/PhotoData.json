@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "img": "/images/butterfly_dogo.jpg",
+        "title": "Teach your dog how to love nature"
+    },
+    {
+        "id": 2,
+        "img":"/images/girls_night.jpg",
+        "title": "A beautiful date"
+    },
+    {
+        "id": 3,
+        "img":"/images/christmas_time.jpg",
+        "title": "Christmas time!!!"
+    }
+]

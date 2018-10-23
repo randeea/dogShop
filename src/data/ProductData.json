@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "image":"bed.jpeg",
+        "cls": "productsHeight1",
+        "title": "Bed for Soccer Lovers",
+        "price": "56.00"
+    },
+    {
+        "id": 2,
+        "image":"colar.jpeg",
+        "cls": "productsHeight2",
+        "title": "Black Collar Rockstar",
+        "price": "20.00"
+    },
+    {
+        "id": 3,
+        "image":"hommies.jpeg",
+        "cls": "productsHeight3",
+        "title": "Love Red & Blue R&B",
+        "price": "80.00"
+    },
+    {
+        "id": 4,
+        "image":"date_night.jpeg",
+        "cls": "productsHeight4",
+        "title": "Elegant Ribbon Collar",
+        "price": "90.00"
+    }
+]
